@@ -1,0 +1,222 @@
+2022-02-09 11:18:54,931 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-02-09 11:18:55,688 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=50
+2022-02-09 11:18:55,688 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=cake+industries+in+us&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-02-09 11:18:56,824 [MainThread  ] [INFO] Found unique URL #1: https://www.ckproducts.com/
+2022-02-09 11:18:56,824 [MainThread  ] [INFO] Found unique URL #2: http://www.unifood.pk/
+2022-02-09 11:18:56,834 [MainThread  ] [INFO] Found unique URL #3: https://www.ibisworld.com/united-states/list-of-industries/
+2022-02-09 11:18:56,834 [MainThread  ] [INFO] Found unique URL #4: https://www.linkedin.com/company/wilton-brands
+2022-02-09 11:18:56,834 [MainThread  ] [INFO] Found unique URL #5: https://www.bea.gov/resources/learning-center/what-to-know-industries
+2022-02-09 11:18:56,834 [MainThread  ] [INFO] Found unique URL #6: https://artgalleryofballarat.com.au/gallery_exhibitions/cake-industries-0826am-exhibition-insight/
+2022-02-09 11:18:56,834 [MainThread  ] [INFO] Found unique URL #7: https://www.full-fill.com/
+2022-02-09 11:18:56,834 [MainThread  ] [INFO] Found unique URL #8: https://creative.vic.gov.au/showcase/meet-the-creators/cake-industries
+2022-02-09 11:18:56,834 [MainThread  ] [INFO] Found unique URL #9: https://www.anmolindustries.com/
+2022-02-09 11:18:56,842 [MainThread  ] [INFO] Sleeping 11 seconds until retrieving the next page of results...
+2022-02-09 11:19:07,854 [MainThread  ] [INFO] Stats: start=10, num=10, total_valid_links_found=9 / max_search_result_urls_to_return=50
+2022-02-09 11:19:07,854 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=cake+industries+in+us&start=10&tbs=li:1&safe=off&cr=&filter=0
+2022-02-09 11:19:08,834 [MainThread  ] [INFO] Found unique URL #10: https://www.ndtv.com/world-news/gay-couple-in-us-to-get-usd-135-000-for-denied-wedding-cake-778513
+2022-02-09 11:19:08,834 [MainThread  ] [INFO] Found unique URL #11: https://artgalleryofballarat.com.au/gallery_exhibitions/cake-industries-0826am-2/
+2022-02-09 11:19:08,842 [MainThread  ] [INFO] Found unique URL #12: https://thalindustries.com/
+2022-02-09 11:19:08,842 [MainThread  ] [INFO] Found unique URL #13: https://m.economictimes.com/magazines/panache/lesbian-couple-in-us-to-get-135000-for-denied-wedding-cake/articleshow/47954717.cms
+2022-02-09 11:19:08,842 [MainThread  ] [INFO] Found unique URL #14: https://experimenta.org/artists/cake-industries/
+2022-02-09 11:19:08,842 [MainThread  ] [INFO] Found unique URL #15: https://www.ibisworld.com/industry-statistics/market-size/frozen-cake-pastry-manufacturing-united-states/
+2022-02-09 11:19:08,842 [MainThread  ] [INFO] Found unique URL #16: http://www.moip.gov.pk/
+2022-02-09 11:19:08,842 [MainThread  ] [INFO] Found unique URL #17: https://indiankanoon.org/doc/1773236/
+2022-02-09 11:19:08,842 [MainThread  ] [INFO] Found unique URL #18: https://economictimes.indiatimes.com/magazines/panache/lesbian-couple-in-us-to-get-135000-for-denied-wedding-cake/articleshow/47954717.cms
+2022-02-09 11:19:08,842 [MainThread  ] [INFO] Found unique URL #19: https://www.buhlergroup.com/content/buhlergroup/global/en/industries/Baked-goods/biscuits-and-cakes.html
+2022-02-09 11:19:08,842 [MainThread  ] [INFO] Sleeping 4 seconds until retrieving the next page of results...
+2022-02-09 11:19:12,857 [MainThread  ] [INFO] Stats: start=20, num=10, total_valid_links_found=19 / max_search_result_urls_to_return=50
+2022-02-09 11:19:12,857 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=cake+industries+in+us&start=20&tbs=li:1&safe=off&cr=&filter=0
+2022-02-09 11:19:14,013 [MainThread  ] [INFO] Found unique URL #20: https://www.bloomberg.com/press-releases/2022-01-06/livestock-cake-market-to-exceed-valuation-of-us-1-38-bn-by-2031-states-tmr-report
+2022-02-09 11:19:14,029 [MainThread  ] [INFO] Found unique URL #21: https://www.ibisworld.com/united-states/consumer-goods-sector/
+2022-02-09 11:19:14,029 [MainThread  ] [INFO] Found unique URL #22: https://folklife.si.edu/magazine/foodways-holidays-taiwanese-turnip-cake
+2022-02-09 11:19:14,029 [MainThread  ] [INFO] Found unique URL #23: https://www.fao.org/3/s8850e/S8850E03.htm
+2022-02-09 11:19:14,029 [MainThread  ] [INFO] Found unique URL #24: https://nkindustriesltd.com/
+2022-02-09 11:19:14,029 [MainThread  ] [INFO] Found unique URL #25: https://en.wikipedia.org/wiki/Biscuit
+2022-02-09 11:19:14,029 [MainThread  ] [INFO] Found unique URL #26: https://www.cdc.gov/ecoli/2021/o121-07-21/details.html
+2022-02-09 11:19:14,029 [MainThread  ] [INFO] Found unique URL #27: https://www.healthline.com/nutrition/titanium-dioxide-in-food
+2022-02-09 11:19:14,029 [MainThread  ] [INFO] Found unique URL #28: https://qz.com/2103874/the-cakes-pastries-and-bread-trends-at-us-bakeries-in-2021/
+2022-02-09 11:19:14,029 [MainThread  ] [INFO] Found unique URL #29: https://www.csu.edu/cerc/researchreports/documents/ChicagoSESideIndustrialHistory.pdf
+2022-02-09 11:19:14,037 [MainThread  ] [INFO] Sleeping 3 seconds until retrieving the next page of results...
+2022-02-09 11:19:17,045 [MainThread  ] [INFO] Stats: start=30, num=10, total_valid_links_found=29 / max_search_result_urls_to_return=50
+2022-02-09 11:19:17,045 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=cake+industries+in+us&start=30&tbs=li:1&safe=off&cr=&filter=0
+2022-02-09 11:19:18,040 [MainThread  ] [INFO] Found unique URL #30: https://economictimes.indiatimes.com/markets/expert-view/ril-agm-might-be-icing-on-the-cake-for-shareholders/articleshow/83110150.cms
+2022-02-09 11:19:18,048 [MainThread  ] [INFO] Found unique URL #31: https://en.wikipedia.org/wiki/Film_industry
+2022-02-09 11:19:18,048 [MainThread  ] [INFO] Found unique URL #32: https://en.wikipedia.org/wiki/Sieve
+2022-02-09 11:19:18,048 [MainThread  ] [INFO] Found unique URL #33: https://www.hindustantimes.com/lifestyle/brunch/luxury-let-them-eat-cake-101640463874724.html
+2022-02-09 11:19:18,048 [MainThread  ] [INFO] Found unique URL #34: https://cakeandarrow.com/
+2022-02-09 11:19:18,048 [MainThread  ] [INFO] Found unique URL #35: https://indiankanoon.org/doc/905058/
+2022-02-09 11:19:18,048 [MainThread  ] [INFO] Found unique URL #36: http://britannia.co.in/products/cakes
+2022-02-09 11:19:18,048 [MainThread  ] [INFO] Found unique URL #37: https://www.epa.gov/hw/defining-hazardous-waste-listed-characteristic-and-mixed-radiological-wastes
+2022-02-09 11:19:18,048 [MainThread  ] [INFO] Found unique URL #38: https://m.economictimes.com/markets/expert-view/ril-agm-might-be-icing-on-the-cake-for-shareholders/articleshow/83110150.cms
+2022-02-09 11:19:18,048 [MainThread  ] [INFO] Found unique URL #39: https://find-and-update.company-information.service.gov.uk/company/07034823
+2022-02-09 11:19:18,056 [MainThread  ] [INFO] Sleeping 8 seconds until retrieving the next page of results...
+2022-02-09 11:19:26,067 [MainThread  ] [INFO] Stats: start=40, num=10, total_valid_links_found=39 / max_search_result_urls_to_return=50
+2022-02-09 11:19:26,067 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=cake+industries+in+us&start=40&tbs=li:1&safe=off&cr=&filter=0
+2022-02-09 11:19:27,031 [MainThread  ] [INFO] Found unique URL #40: https://www.ibisworld.com/industry-statistics/number-of-businesses/frozen-cake-pastry-manufacturing-united-states/
+2022-02-09 11:19:27,031 [MainThread  ] [INFO] Found unique URL #41: https://www.myskindustries.in/washing-powder-making-machine.html
+2022-02-09 11:19:27,031 [MainThread  ] [INFO] Found unique URL #42: https://research.qut.edu.au/designlab/team/sue-cake/
+2022-02-09 11:19:27,039 [MainThread  ] [INFO] Found unique URL #43: https://hbr.org/1998/07/welcome-to-the-experience-economy
+2022-02-09 11:19:27,039 [MainThread  ] [INFO] Found unique URL #44: https://uk.linkedin.com/in/davidfknight
+2022-02-09 11:19:27,039 [MainThread  ] [INFO] Found unique URL #45: https://www.pandolficarpets.com/mohawk-industries-bayfront-browns-spice-cake-carpet-flooring-2e51-728
+2022-02-09 11:19:27,039 [MainThread  ] [INFO] Found unique URL #46: http://www.cake.net.au/about/
+2022-02-09 11:19:27,039 [MainThread  ] [INFO] Found unique URL #47: https://www.indiamart.com/tirupati-oil-and-cake-industries/
+2022-02-09 11:19:27,039 [MainThread  ] [INFO] Found unique URL #48: https://www.facebook.com/ExperimentaMediaArts/posts/were-excited-see-cake-industries-present-the-hybrid-society-at-white-night-balla/2491501157562659/
+2022-02-09 11:19:27,039 [MainThread  ] [INFO] Found unique URL #49: https://www.unifiller.com/
+2022-02-09 11:19:27,039 [MainThread  ] [INFO] Sleeping 9 seconds until retrieving the next page of results...
+2022-02-09 11:19:36,049 [MainThread  ] [INFO] Stats: start=50, num=10, total_valid_links_found=49 / max_search_result_urls_to_return=50
+2022-02-09 11:19:36,049 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=cake+industries+in+us&start=50&tbs=li:1&safe=off&cr=&filter=0
+2022-02-09 11:19:37,086 [MainThread  ] [INFO] Found unique URL #50: https://www.statista.com/statistics/959844/volume-growth-of-cake-sales-in-the-us-by-cake-type/
+2022-02-09 11:21:28,936 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-02-09 11:21:29,541 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=50
+2022-02-09 11:21:29,541 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=cake+industries+in+us&btnG=Google+Search&tbs=0&safe=off&cr=&filter=0
+2022-02-09 11:21:31,112 [MainThread  ] [INFO] Found unique URL #1: https://www.grandviewresearch.com/industry-analysis/cakes-market
+2022-02-09 11:21:31,112 [MainThread  ] [INFO] Found unique URL #2: https://www.bakeryandsnacks.com/Article/2018/10/31/Industry-insight-into-US-bakery-market
+2022-02-09 11:21:31,112 [MainThread  ] [INFO] Found unique URL #3: https://www.cakebrandsusa.com/about-us
+2022-02-09 11:21:31,115 [MainThread  ] [INFO] Found unique URL #4: https://www.ibisworld.com/united-states/market-research-reports/custom-cake-services-industry/
+2022-02-09 11:21:31,115 [MainThread  ] [INFO] Found unique URL #5: https://www.statista.com/statistics/1017946/leading-cake-vendor-sales-share-in-the-united-states/
+2022-02-09 11:21:31,115 [MainThread  ] [INFO] Found unique URL #6: https://www.statista.com/statistics/458010/us-unit-sales-of-the-leading-cake-vendors/
+2022-02-09 11:21:31,115 [MainThread  ] [INFO] Found unique URL #7: https://cakecompany.pk/
+2022-02-09 11:21:31,115 [MainThread  ] [INFO] Found unique URL #8: https://www.wilton.com/
+2022-02-09 11:21:31,115 [MainThread  ] [INFO] Found unique URL #9: http://www.nycake.com/
+2022-02-09 11:21:31,115 [MainThread  ] [INFO] Found unique URL #10: https://bakisto.pk/
+2022-02-09 11:21:31,115 [MainThread  ] [INFO] Sleeping 8 seconds until retrieving the next page of results...
+2022-02-09 11:21:39,119 [MainThread  ] [INFO] Stats: start=10, num=10, total_valid_links_found=10 / max_search_result_urls_to_return=50
+2022-02-09 11:21:39,119 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=cake+industries+in+us&start=10&tbs=0&safe=off&cr=&filter=0
+2022-02-09 11:21:40,353 [MainThread  ] [INFO] Found unique URL #11: http://www.breadbasketcake.com/
+2022-02-09 11:21:40,353 [MainThread  ] [INFO] Found unique URL #12: https://www.theguardian.com/environment/2022/feb/05/us-cake-workers-california-rich-products-corporation
+2022-02-09 11:21:40,353 [MainThread  ] [INFO] Found unique URL #13: https://www.layercakebakery.com/
+2022-02-09 11:21:40,353 [MainThread  ] [INFO] Found unique URL #14: https://thecakebakeshop.com/
+2022-02-09 11:21:40,353 [MainThread  ] [INFO] Found unique URL #15: https://cake.app/
+2022-02-09 11:21:40,361 [MainThread  ] [INFO] Found unique URL #16: https://breadbeyond.com/
+2022-02-09 11:21:40,361 [MainThread  ] [INFO] Found unique URL #17: https://dawnbread.com/
+2022-02-09 11:21:40,361 [MainThread  ] [INFO] Found unique URL #18: http://www.lighthousecakecompany.ca/
+2022-02-09 11:21:40,361 [MainThread  ] [INFO] Found unique URL #19: https://cakecompany.pk/collections/dry-cakes
+2022-02-09 11:21:40,361 [MainThread  ] [INFO] Found unique URL #20: https://www.bakerias.com/PK/Lahore/1634498886604566/Bakisto---the-cake-company
+2022-02-09 11:21:40,361 [MainThread  ] [INFO] Sleeping 9 seconds until retrieving the next page of results...
+2022-02-09 11:21:49,369 [MainThread  ] [INFO] Stats: start=20, num=10, total_valid_links_found=20 / max_search_result_urls_to_return=50
+2022-02-09 11:21:49,369 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=cake+industries+in+us&start=20&tbs=0&safe=off&cr=&filter=0
+2022-02-09 11:21:50,682 [MainThread  ] [INFO] Found unique URL #21: https://www.sweetescapecakecompany.com/
+2022-02-09 11:21:50,683 [MainThread  ] [INFO] Duplicate URL found: https://cakecompany.pk/collections/dry-cakes
+2022-02-09 11:21:50,684 [MainThread  ] [INFO] Found unique URL #22: https://cakecompany.pk/pages/privacy-policy
+2022-02-09 11:21:50,685 [MainThread  ] [INFO] Found unique URL #23: https://cakecompany.pk/collections/cheesecakes
+2022-02-09 11:21:50,686 [MainThread  ] [INFO] Found unique URL #24: https://cakecompany.pk/products/royal-fruit-nut-cake
+2022-02-09 11:21:50,688 [MainThread  ] [INFO] Found unique URL #25: https://cakecompany.pk/products/devils-chocolate-cake
+2022-02-09 11:21:50,689 [MainThread  ] [INFO] Found unique URL #26: https://cakecompany.pk/collections/all-products
+2022-02-09 11:21:50,689 [MainThread  ] [INFO] Found unique URL #27: http://www.unifood.pk/
+2022-02-09 11:21:50,689 [MainThread  ] [INFO] Found unique URL #28: https://cocoaberrycake.com/
+2022-02-09 11:21:50,689 [MainThread  ] [INFO] Found unique URL #29: https://www.tampabaycakecompany.com/
+2022-02-09 11:21:50,689 [MainThread  ] [INFO] Sleeping 8 seconds until retrieving the next page of results...
+2022-02-09 11:21:58,699 [MainThread  ] [INFO] Stats: start=30, num=10, total_valid_links_found=29 / max_search_result_urls_to_return=50
+2022-02-09 11:21:58,699 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=cake+industries+in+us&start=30&tbs=0&safe=off&cr=&filter=0
+2022-02-09 11:21:59,996 [MainThread  ] [INFO] Duplicate URL found: https://cakecompany.pk/collections/all-products
+2022-02-09 11:21:59,996 [MainThread  ] [INFO] Found unique URL #30: https://cakecompany.pk/collections/signature-delights-lhr
+2022-02-09 11:22:00,005 [MainThread  ] [INFO] Found unique URL #31: https://cakecompany.pk/collections/deals-lahore
+2022-02-09 11:22:00,005 [MainThread  ] [INFO] Duplicate URL found: https://dawnbread.com/
+2022-02-09 11:22:00,007 [MainThread  ] [INFO] Found unique URL #32: https://cakefactory.com/
+2022-02-09 11:22:00,007 [MainThread  ] [INFO] Duplicate URL found: https://www.statista.com/statistics/458010/us-unit-sales-of-the-leading-cake-vendors/
+2022-02-09 11:22:00,009 [MainThread  ] [INFO] Duplicate URL found: https://thecakebakeshop.com/
+2022-02-09 11:22:00,010 [MainThread  ] [INFO] Found unique URL #33: https://www.cakecraftusa.com/
+2022-02-09 11:22:00,011 [MainThread  ] [INFO] Duplicate URL found: https://breadbeyond.com/
+2022-02-09 11:22:00,011 [MainThread  ] [INFO] Found unique URL #34: https://www.pariscakeco.com/
+2022-02-09 11:22:00,013 [MainThread  ] [INFO] Sleeping 11 seconds until retrieving the next page of results...
+2022-02-09 11:22:11,016 [MainThread  ] [INFO] Stats: start=40, num=10, total_valid_links_found=34 / max_search_result_urls_to_return=50
+2022-02-09 11:22:11,016 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=cake+industries+in+us&start=40&tbs=0&safe=off&cr=&filter=0
+2022-02-09 11:22:12,251 [MainThread  ] [INFO] Found unique URL #35: https://clarksonavecrumb.com/
+2022-02-09 11:22:12,251 [MainThread  ] [INFO] Found unique URL #36: https://pieceacakenyc.com/
+2022-02-09 11:22:12,251 [MainThread  ] [INFO] Found unique URL #37: https://www.familycakes.co.uk/
+2022-02-09 11:22:12,251 [MainThread  ] [INFO] Found unique URL #38: https://minitreats.co/pages/about-us
+2022-02-09 11:22:12,251 [MainThread  ] [INFO] Found unique URL #39: https://bakisto.pk/product-category/kids-birthday-cakes/page/2/
+2022-02-09 11:22:12,251 [MainThread  ] [INFO] Found unique URL #40: https://bakisto.pk/about-us/
+2022-02-09 11:22:12,251 [MainThread  ] [INFO] Found unique URL #41: http://www.thevintagecake.com/
+2022-02-09 11:22:12,251 [MainThread  ] [INFO] Found unique URL #42: https://crumbcake.net/
+2022-02-09 11:22:12,251 [MainThread  ] [INFO] Found unique URL #43: https://www.connsflooring.com/mohawk-industries-urban-studio-beiges-oat-cake-carpet-flooring-2g60-728
+2022-02-09 11:22:12,251 [MainThread  ] [INFO] Found unique URL #44: https://www.dallasaffairescakeco.com/
+2022-02-09 11:22:12,251 [MainThread  ] [INFO] Sleeping 3 seconds until retrieving the next page of results...
+2022-02-09 11:22:15,252 [MainThread  ] [INFO] Stats: start=50, num=10, total_valid_links_found=44 / max_search_result_urls_to_return=50
+2022-02-09 11:22:15,252 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=cake+industries+in+us&start=50&tbs=0&safe=off&cr=&filter=0
+2022-02-09 11:22:16,550 [MainThread  ] [INFO] Found unique URL #45: https://www.instagram.com/theteacakeco/?hl=en
+2022-02-09 11:22:16,558 [MainThread  ] [INFO] Duplicate URL found: https://cakefactory.com/
+2022-02-09 11:22:16,558 [MainThread  ] [INFO] Duplicate URL found: https://clarksonavecrumb.com/
+2022-02-09 11:22:16,558 [MainThread  ] [INFO] Found unique URL #46: https://www.facebook.com/cakecompanybyganache/
+2022-02-09 11:22:16,558 [MainThread  ] [INFO] Found unique URL #47: https://www.marketdataforecast.com/market-reports/cakes-market
+2022-02-09 11:22:16,558 [MainThread  ] [INFO] Found unique URL #48: https://www.bakeryandsnacks.com/Article/2019/12/11/Bundt-cake-specialist-grows-US-bakery-footprint
+2022-02-09 11:22:16,558 [MainThread  ] [INFO] Duplicate URL found: https://cakecompany.pk/collections/deals-lahore
+2022-02-09 11:22:16,558 [MainThread  ] [INFO] Found unique URL #49: https://www.snackandbakery.com/articles/92442-the-top-50-snack-and-bakery-companies-of-2018
+2022-02-09 11:22:16,558 [MainThread  ] [INFO] Duplicate URL found: https://www.pariscakeco.com/
+2022-02-09 11:22:16,558 [MainThread  ] [INFO] Duplicate URL found: http://www.thevintagecake.com/
+2022-02-09 11:22:16,566 [MainThread  ] [INFO] Sleeping 3 seconds until retrieving the next page of results...
+2022-02-09 11:22:19,573 [MainThread  ] [INFO] Stats: start=60, num=10, total_valid_links_found=49 / max_search_result_urls_to_return=50
+2022-02-09 11:22:19,573 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=cake+industries+in+us&start=60&tbs=0&safe=off&cr=&filter=0
+2022-02-09 11:22:20,882 [MainThread  ] [INFO] Found unique URL #50: https://www.thecakedecoratingcompany.co.uk/
+2022-02-09 11:24:25,796 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-02-09 11:24:26,465 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=50
+2022-02-09 11:24:26,481 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=cake+industries+in+us&btnG=Google+Search&tbs=0&safe=off&cr=&filter=0
+2022-02-09 11:24:27,767 [MainThread  ] [INFO] Found unique URL #1: https://www.cakebrandsusa.com/about-us
+2022-02-09 11:24:27,767 [MainThread  ] [INFO] Found unique URL #2: https://www.grandviewresearch.com/industry-analysis/cakes-market
+2022-02-09 11:24:27,767 [MainThread  ] [INFO] Found unique URL #3: https://www.ibisworld.com/united-states/market-research-reports/custom-cake-services-industry/
+2022-02-09 11:24:27,771 [MainThread  ] [INFO] Found unique URL #4: https://www.bakeryandsnacks.com/Article/2018/10/31/Industry-insight-into-US-bakery-market
+2022-02-09 11:24:27,772 [MainThread  ] [INFO] Found unique URL #5: http://www.nycake.com/
+2022-02-09 11:24:27,772 [MainThread  ] [INFO] Found unique URL #6: https://www.layercakebakery.com/
+2022-02-09 11:24:27,772 [MainThread  ] [INFO] Found unique URL #7: https://cakesandbakes.com/
+2022-02-09 11:24:27,772 [MainThread  ] [INFO] Found unique URL #8: https://www.statista.com/statistics/1017946/leading-cake-vendor-sales-share-in-the-united-states/
+2022-02-09 11:24:27,772 [MainThread  ] [INFO] Found unique URL #9: https://www.statista.com/statistics/458010/us-unit-sales-of-the-leading-cake-vendors/
+2022-02-09 11:24:27,772 [MainThread  ] [INFO] Found unique URL #10: https://cakecompany.pk/
+2022-02-09 11:24:27,772 [MainThread  ] [INFO] Sleeping 9 seconds until retrieving the next page of results...
+2022-02-09 11:24:36,779 [MainThread  ] [INFO] Stats: start=10, num=10, total_valid_links_found=10 / max_search_result_urls_to_return=50
+2022-02-09 11:24:36,779 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=cake+industries+in+us&start=10&tbs=0&safe=off&cr=&filter=0
+2022-02-09 11:24:37,912 [MainThread  ] [INFO] Duplicate URL found: https://cakecompany.pk/
+2022-02-09 11:24:37,912 [MainThread  ] [INFO] Found unique URL #11: https://cakecompany.pk/collections/dry-cakes
+2022-02-09 11:24:37,912 [MainThread  ] [INFO] Found unique URL #12: https://www.wilton.com/
+2022-02-09 11:24:37,914 [MainThread  ] [INFO] Found unique URL #13: https://www.theguardian.com/environment/2022/feb/05/us-cake-workers-california-rich-products-corporation
+2022-02-09 11:24:37,914 [MainThread  ] [INFO] Found unique URL #14: https://bakisto.pk/
+2022-02-09 11:24:37,916 [MainThread  ] [INFO] Found unique URL #15: http://www.breadbasketcake.com/
+2022-02-09 11:24:37,916 [MainThread  ] [INFO] Found unique URL #16: https://cakeequity.com/
+2022-02-09 11:24:37,916 [MainThread  ] [INFO] Found unique URL #17: https://www.instagram.com/cakecompanybyganache/?hl=en
+2022-02-09 11:24:37,918 [MainThread  ] [INFO] Found unique URL #18: https://www.lvcc.co.uk/
+2022-02-09 11:24:37,918 [MainThread  ] [INFO] Found unique URL #19: https://breadbeyond.com/
+2022-02-09 11:24:37,920 [MainThread  ] [INFO] Sleeping 6 seconds until retrieving the next page of results...
+2022-02-09 11:24:43,933 [MainThread  ] [INFO] Stats: start=20, num=10, total_valid_links_found=19 / max_search_result_urls_to_return=50
+2022-02-09 11:24:43,933 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=cake+industries+in+us&start=20&tbs=0&safe=off&cr=&filter=0
+2022-02-09 11:24:45,083 [MainThread  ] [INFO] Found unique URL #20: https://www.sweetescapecakecompany.com/
+2022-02-09 11:24:45,083 [MainThread  ] [INFO] Found unique URL #21: https://www.pmecake.com/
+2022-02-09 11:24:45,083 [MainThread  ] [INFO] Found unique URL #22: https://cakecompany.pk/collections/cakes
+2022-02-09 11:24:45,090 [MainThread  ] [INFO] Found unique URL #23: https://cakecompany.pk/collections/chocolate-cakes
+2022-02-09 11:24:45,090 [MainThread  ] [INFO] Found unique URL #24: https://cakecompany.pk/collections/milk-cakes
+2022-02-09 11:24:45,092 [MainThread  ] [INFO] Found unique URL #25: https://cakecompany.pk/collections/platters
+2022-02-09 11:24:45,092 [MainThread  ] [INFO] Found unique URL #26: https://cakecompany.pk/blogs/news
+2022-02-09 11:24:45,092 [MainThread  ] [INFO] Found unique URL #27: https://www.bakerias.com/PK/Lahore/1634498886604566/Bakisto---the-cake-company
+2022-02-09 11:24:45,092 [MainThread  ] [INFO] Found unique URL #28: https://www.pieceofcakeinc.com/
+2022-02-09 11:24:45,092 [MainThread  ] [INFO] Found unique URL #29: https://pk.linkedin.com/company/cakes-&-bakes-pakistan
+2022-02-09 11:24:45,092 [MainThread  ] [INFO] Sleeping 5 seconds until retrieving the next page of results...
+2022-02-09 11:24:50,104 [MainThread  ] [INFO] Stats: start=30, num=10, total_valid_links_found=29 / max_search_result_urls_to_return=50
+2022-02-09 11:24:50,104 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=cake+industries+in+us&start=30&tbs=0&safe=off&cr=&filter=0
+2022-02-09 11:24:51,420 [MainThread  ] [INFO] Duplicate URL found: https://cakecompany.pk/blogs/news
+2022-02-09 11:24:51,420 [MainThread  ] [INFO] Found unique URL #30: https://cakecompany.pk/collections/cakes-lhr
+2022-02-09 11:24:51,420 [MainThread  ] [INFO] Found unique URL #31: https://cakecompany.pk/collections/signature-delights-fsd
+2022-02-09 11:24:51,420 [MainThread  ] [INFO] Found unique URL #32: https://cakecompany.pk/pages/privacy-policy
+2022-02-09 11:24:51,432 [MainThread  ] [INFO] Found unique URL #33: https://cakecompany.pk/products/royal-fruit-nut-cake
+2022-02-09 11:24:51,432 [MainThread  ] [INFO] Duplicate URL found: https://www.bakerias.com/PK/Lahore/1634498886604566/Bakisto---the-cake-company
+2022-02-09 11:24:51,433 [MainThread  ] [INFO] Found unique URL #34: http://www.lighthousecakecompany.ca/
+2022-02-09 11:24:51,434 [MainThread  ] [INFO] Found unique URL #35: https://mycake.me/
+2022-02-09 11:24:51,434 [MainThread  ] [INFO] Found unique URL #36: https://bakisto.pk/product-category/kids-birthday-cakes/page/2/
+2022-02-09 11:24:51,436 [MainThread  ] [INFO] Found unique URL #37: https://www.statista.com/statistics/458005/us-dollar-sales-of-the-leading-cake-vendors/
+2022-02-09 11:24:51,436 [MainThread  ] [INFO] Sleeping 9 seconds until retrieving the next page of results...
+2022-02-09 11:25:00,441 [MainThread  ] [INFO] Stats: start=40, num=10, total_valid_links_found=37 / max_search_result_urls_to_return=50
+2022-02-09 11:25:00,441 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=cake+industries+in+us&start=40&tbs=0&safe=off&cr=&filter=0
+2022-02-09 11:25:01,763 [MainThread  ] [INFO] Duplicate URL found: https://www.statista.com/statistics/458005/us-dollar-sales-of-the-leading-cake-vendors/
+2022-02-09 11:25:01,763 [MainThread  ] [INFO] Found unique URL #38: https://cakecompany.pk/products/devils-chocolate-cake
+2022-02-09 11:25:01,763 [MainThread  ] [INFO] Found unique URL #39: https://cakecompany.pk/collections/cheesecakes
+2022-02-09 11:25:01,763 [MainThread  ] [INFO] Found unique URL #40: https://cakecompany.pk/collections/all-products
+2022-02-09 11:25:01,769 [MainThread  ] [INFO] Found unique URL #41: https://cakecompany.pk/products/tea-cake
+2022-02-09 11:25:01,769 [MainThread  ] [INFO] Found unique URL #42: https://cakecompany.pk/collections/deals-lahore
+2022-02-09 11:25:01,769 [MainThread  ] [INFO] Found unique URL #43: https://minitreats.co/pages/about-us
+2022-02-09 11:25:01,769 [MainThread  ] [INFO] Found unique URL #44: https://delizia.pk/
+2022-02-09 11:25:01,769 [MainThread  ] [INFO] Found unique URL #45: https://dawnbread.com/
+2022-02-09 11:25:01,769 [MainThread  ] [INFO] Found unique URL #46: https://clarksonavecrumb.com/
+2022-02-09 11:25:01,772 [MainThread  ] [INFO] Sleeping 5 seconds until retrieving the next page of results...
+2022-02-09 11:25:06,781 [MainThread  ] [INFO] Stats: start=50, num=10, total_valid_links_found=46 / max_search_result_urls_to_return=50
+2022-02-09 11:25:06,781 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=cake+industries+in+us&start=50&tbs=0&safe=off&cr=&filter=0
+2022-02-09 11:25:07,964 [MainThread  ] [INFO] Found unique URL #47: https://www.instagram.com/theteacakeco/?hl=en
+2022-02-09 11:25:07,964 [MainThread  ] [INFO] Found unique URL #48: https://www.marketdataforecast.com/market-reports/cakes-market
+2022-02-09 11:25:07,964 [MainThread  ] [INFO] Found unique URL #49: https://www.bakeryandsnacks.com/Article/2019/12/11/Bundt-cake-specialist-grows-US-bakery-footprint
+2022-02-09 11:25:07,969 [MainThread  ] [INFO] Found unique URL #50: https://www.snackandbakery.com/articles/92442-the-top-50-snack-and-bakery-companies-of-2018

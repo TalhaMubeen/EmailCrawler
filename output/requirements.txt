@@ -1,0 +1,4 @@
+aiohttp==3.8.1
+beautifulsoup4==4.10.0
+requests==2.27.1
+socid_extractor==0.0.23
